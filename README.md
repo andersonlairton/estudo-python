@@ -12,8 +12,9 @@
     - Laços: for, while.
 
     - **Desafios propostos pelo chatgpt**
-         *Desafio do Dia 1*
-            **Desafio: Calculadora Simples**
+
+         - *Desafio do Dia 1*
+             **Desafio: Calculadora Simples**
 
                Crie um script chamado calculadora.py que faça o seguinte:
 
@@ -27,10 +28,11 @@
                Use condicionais (if, elif, else) para determinar qual operação realizar.
                Tente resolver o desafio e, se precisar de ajuda ou quiser verificar sua solução, estou aqui! Boa sorte!
          
-            **Desafio: Conversor de Temperaturas**
-                  Crie um script chamado conversor_temperatura.py que faça o seguinte:
+       - **Desafio: Conversor de Temperaturas**
 
-                  Pergunte ao usuário qual a temperatura atual (em graus Celsius).
+              Crie um script chamado conversor_temperatura.py que faça o seguinte:
+
+             Pergunte ao usuário qual a temperatura atual (em graus Celsius).
                   Pergunte ao usuário para qual unidade ele gostaria de converter a temperatura:
                    - Fahrenheit
                     - Kelvin
