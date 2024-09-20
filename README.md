@@ -50,6 +50,20 @@
 
           - Verificação de Números Pares ou Ímpares: Crie um script que receba um número e diga se ele é par ou ímpar. 
           - Contagem Regressiva: Use um while para fazer uma contagem regressiva de 10 até 0, e depois exiba "Feliz Ano Novo!" quando chegar a 0.
+
+          - **Desafio: Jogo de Adivinhação**
+                  Crie um script chamado jogo_adivinhacao.py que funcione da seguinte forma:
+
+                  O programa escolhe um número aleatório entre 1 e 100 (use a função randint do módulo random).
+                  O usuário tem até 10 tentativas para adivinhar o número.
+                  A cada tentativa, o programa deve informar se o palpite do usuário foi maior ou menor do que o número sorteado.
+                  Se o usuário acertar, o programa deve mostrar uma mensagem de parabéns e encerrar o jogo.
+                  Se o usuário não acertar após 10 tentativas, o programa deve informar qual era o número correto.
+                  Desafios extras:
+
+                  Implemente um sistema que permita o usuário jogar novamente sem fechar o programa.
+                  Mostre quantas tentativas foram necessárias para acertar o número.
+                  Boa sorte! Se precisar de ajuda com algum detalhe, é só me chamar.
              
  * *Semana 3-4: Funções e Módulos*
     - Objetivo: Criar e utilizar funções e entender a organização de código.
