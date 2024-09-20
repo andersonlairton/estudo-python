@@ -14,37 +14,43 @@
     - **Desafios propostos pelo chatgpt**
 
          - *Desafio do Dia 1*
-             **Desafio: Calculadora Simples**
 
-               Crie um script chamado calculadora.py que faça o seguinte:
+             - **Desafio: Calculadora Simples**
 
-               Pergunte ao usuário para inserir dois números.
-               Pergunte ao usuário qual operação ele gostaria de realizar (adição, subtração, multiplicação ou divisão).
-               Execute a operação escolhida e exiba o resultado.
-               Se o usuário escolher divisão, certifique-se de que não está dividindo por zero.
-               Dicas:
+                   Crie um script chamado calculadora.py que faça o seguinte:
 
-               Use input() para receber dados do usuário.
-               Use condicionais (if, elif, else) para determinar qual operação realizar.
-               Tente resolver o desafio e, se precisar de ajuda ou quiser verificar sua solução, estou aqui! Boa sorte!
+                   Pergunte ao usuário para inserir dois números.
+                   Pergunte ao usuário qual operação ele gostaria de realizar (adição, subtração, multiplicação ou divisão).
+                   Execute a operação escolhida e exiba o resultado.
+                   Se o usuário escolher divisão, certifique-se de que não está dividindo por zero.
+                   Dicas:
+    
+                   Use input() para receber dados do usuário.
+                   Use condicionais (if, elif, else) para determinar qual operação realizar.
+                   Tente resolver o desafio e, se precisar de ajuda ou quiser verificar sua solução, estou aqui! Boa sorte!
          
-       - **Desafio: Conversor de Temperaturas**
+            - **Desafio: Conversor de Temperaturas**
 
-              Crie um script chamado conversor_temperatura.py que faça o seguinte:
+                  Crie um script chamado conversor_temperatura.py que faça o seguinte:
+    
+                  Pergunte ao usuário qual a temperatura atual (em graus Celsius).
+                       Pergunte ao usuário para qual unidade ele gostaria de converter a temperatura:
+                        - Fahrenheit
+                         - Kelvin
+                       Realize a conversão e exiba o resultado ao usuário.
+                          As fórmulas de conversão são:
+                             - De Celsius para Fahrenheit: F = (C * 9/5) + 32
+                             -De Celsius para Kelvin: K = C + 273.15
+                       Desafios extras:
+     
+                       Adicione uma opção para o usuário converter de Fahrenheit ou Kelvin de volta para Celsius.
+                       Certifique-se de que o usuário está inserindo um valor válido.
+                       Boa sorte! Quando terminar, me avise para fazermos uma revisão ou avançar com novos desafios!
+      -  *Desafios do Dia 2*
 
-             Pergunte ao usuário qual a temperatura atual (em graus Celsius).
-                  Pergunte ao usuário para qual unidade ele gostaria de converter a temperatura:
-                   - Fahrenheit
-                    - Kelvin
-                  Realize a conversão e exiba o resultado ao usuário.
-                     As fórmulas de conversão são:
-                        - De Celsius para Fahrenheit: F = (C * 9/5) + 32
-                        -De Celsius para Kelvin: K = C + 273.15
-                  Desafios extras:
-
-                  Adicione uma opção para o usuário converter de Fahrenheit ou Kelvin de volta para Celsius.
-                  Certifique-se de que o usuário está inserindo um valor válido.
-                  Boa sorte! Quando terminar, me avise para fazermos uma revisão ou avançar com novos desafios!
+          - Verificação de Números Pares ou Ímpares: Crie um script que receba um número e diga se ele é par ou ímpar. 
+          - Contagem Regressiva: Use um while para fazer uma contagem regressiva de 10 até 0, e depois exiba "Feliz Ano Novo!" quando chegar a 0.
+             
  * *Semana 3-4: Funções e Módulos*
     - Objetivo: Criar e utilizar funções e entender a organização de código.
     - Definindo funções (def), argumentos, retorno de valores.
