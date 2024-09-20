@@ -10,6 +10,39 @@
     - Operações básicas: aritméticas e manipulação de strings.
     - Estruturas condicionais: if, else, elif.
     - Laços: for, while.
+
+    - **Desafios propostos pelo chatgpt**
+         *Desafio do Dia 1*
+            **Desafio: Calculadora Simples**
+
+               Crie um script chamado calculadora.py que faça o seguinte:
+
+               Pergunte ao usuário para inserir dois números.
+               Pergunte ao usuário qual operação ele gostaria de realizar (adição, subtração, multiplicação ou divisão).
+               Execute a operação escolhida e exiba o resultado.
+               Se o usuário escolher divisão, certifique-se de que não está dividindo por zero.
+               Dicas:
+
+               Use input() para receber dados do usuário.
+               Use condicionais (if, elif, else) para determinar qual operação realizar.
+               Tente resolver o desafio e, se precisar de ajuda ou quiser verificar sua solução, estou aqui! Boa sorte!
+         
+            **Desafio: Conversor de Temperaturas**
+                  Crie um script chamado conversor_temperatura.py que faça o seguinte:
+
+                  Pergunte ao usuário qual a temperatura atual (em graus Celsius).
+                  Pergunte ao usuário para qual unidade ele gostaria de converter a temperatura:
+                   - Fahrenheit
+                    - Kelvin
+                  Realize a conversão e exiba o resultado ao usuário.
+                     As fórmulas de conversão são:
+                        - De Celsius para Fahrenheit: F = (C * 9/5) + 32
+                        -De Celsius para Kelvin: K = C + 273.15
+                  Desafios extras:
+
+                  Adicione uma opção para o usuário converter de Fahrenheit ou Kelvin de volta para Celsius.
+                  Certifique-se de que o usuário está inserindo um valor válido.
+                  Boa sorte! Quando terminar, me avise para fazermos uma revisão ou avançar com novos desafios!
  * *Semana 3-4: Funções e Módulos*
     - Objetivo: Criar e utilizar funções e entender a organização de código.
     - Definindo funções (def), argumentos, retorno de valores.
